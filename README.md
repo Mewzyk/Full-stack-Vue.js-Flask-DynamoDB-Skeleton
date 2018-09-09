@@ -1,3 +1,3 @@
-# Vue.js / Cognito / DynamoDB / Flask Kickstarter
+# Vue.js - Flask - AWS - Bootstrap
 
 Skeleton application
